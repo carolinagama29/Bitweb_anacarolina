@@ -1,0 +1,50 @@
+.fundo {
+    background-color: lightblue;    
+}
+
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.redes-sociais {
+   font-size: 30px;
+   color: lightblue;  
+}
+
+.parent{
+    position: relative;
+    width: 500px;
+ }
+
+ .img{
+   width:500px;
+ }
+
+
+ .center {
+    position: absolute;
+    top:50%;
+    text-align: center;;
+ }
+
+ .top-left{
+    position: absolute;
+    left:0;
+    top:0;
+ }
+ .top-right{
+    position: absolute;
+    right:0;
+    top:0;
+ }
+ .bottom-left{
+    position: absolute;
+    left:0;
+    bottom:0;
+ }
+ .bottom-right{
+    position: absolute;
+    right:0;
+    bottom:0;
+ }
